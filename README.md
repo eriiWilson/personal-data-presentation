@@ -90,14 +90,9 @@ O programa exibe a altura do usuário e uma mensagem de encerramento.
 ---
 
 ## Autor:
-- **[Seu Nome](link para seu perfil no GitHub ou LinkedIn)**  
-  Descrição breve sobre você (opcional). Ex: "Estudante de programação apaixonado por Python e desenvolvimento web."
-
----
-
-## Licença:
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
+- **[Eric Wilson](https://www.linkedin.com/in/eric-wilson-aa419223a/)**  
+     "Estudante de programação apaixonado por Python e desenvolvimento web."
+  
 ---
 
 ## Contribuições:
@@ -106,7 +101,7 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encon
 ---
 
 ## Contato:
-- **GitHub:** [Seu usuário no GitHub]([https://github.com/seu-usuario](https://github.com/eriiWilson))
-- **LinkedIn:** [Seu perfil no LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/eric-wilson-aa419223a/))
+- **GitHub:** https://github.com/eriiWilson
+- **LinkedIn:** https://www.linkedin.com/in/eric-wilson-aa419223a/
 - **E-mail:** eric_wils0n@outlook.com
 ```
